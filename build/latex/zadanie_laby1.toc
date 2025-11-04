@@ -1,7 +1,7 @@
 \babel@toc {polish}{}\relax 
 \contentsline {chapter}{\numberline {1}Wprowadzenie}{3}{chapter.1}%
 \contentsline {section}{\numberline {1.1}BIGOS}{3}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Tabelka i Lista}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Tabelka}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}lista}{5}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Obrazy}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {2}Tabelka i Lista}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Tabelka}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}lista}{7}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Obrazy}{9}{chapter.3}%
