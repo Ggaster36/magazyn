@@ -1,0 +1,16 @@
+Tabelka i Lista
+==================
+tutaj jest tabelka i lista oczywiście z tematyką bigosu
+
+Tabelka
+---------
+
+=============== ============= ===========
+  TYP Bigosu     smak bigosu   zdobycie
+=============== ============= ===========
+Bigos normalny   smaczny        sklep
+=============== ============= ===========
+bigos dziwny     fioletowy     alejka 8
+=============== ============= ===========
+bigos kolorowy   magiczny      pustka
+=============== ============= ===========

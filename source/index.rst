@@ -16,3 +16,4 @@ documentation for details.
    :caption: Contents:
 
    rozdzial1/index
+   rozdzial2/index
